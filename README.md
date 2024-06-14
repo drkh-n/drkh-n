@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @drkh-n
-- 👀 I’m interested in mobile software engineering
-- 🌱 I’m currently learning iOS development
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me mail to darkhan.nurzhakyp@nu.edu.kz
